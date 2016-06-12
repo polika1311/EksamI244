@@ -1,0 +1,11 @@
+body {
+	margin: 5px;
+	background: skyblue;
+}
+#main {
+	width: 800px;
+	text-align: center;
+	margin:25px;
+	line-height:2;
+	padding:2px;
+}
